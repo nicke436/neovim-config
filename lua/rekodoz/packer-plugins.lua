@@ -4,7 +4,7 @@ return require('packer').startup(function(use)
 	-- colorscheme
 	use 'marko-cerovac/material.nvim'
 	use 'catppuccin/nvim'
-
+	
 	use 'freddiehaddad/feline.nvim'
 	use 'akinsho/bufferline.nvim'
 	use 'startup-nvim/startup.nvim'
